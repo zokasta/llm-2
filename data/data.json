@@ -1,0 +1,17 @@
+[
+    {"role": "user", "prompt": "Hello"},
+    {"role": "ai", "prompt": "Hello, how can I help you?"},
+    {"role": "user", "prompt": "What is your name?"},
+    {"role": "ai", "prompt": "I am your friendly AI assistant."},
+    {"role": "user", "prompt": "How's the weather today?"},
+    {"role": "ai", "prompt": "It's sunny and warm today."},
+    {"role": "user", "prompt": "Can you tell me a joke?"},
+    {"role": "ai", "prompt": "Why did the chicken cross the road? To get to the other side!"},
+    {"role": "user", "prompt": "What's your favorite color?"},
+    {"role": "ai", "prompt": "I love all colors, but blue is quite calming."},
+    {"role": "user", "prompt": "What do you do?"},
+    {"role": "ai", "prompt": "I help answer questions and provide information."},
+    {"role": "user", "prompt": "Tell me something interesting."},
+    {"role": "ai", "prompt": "Did you know that honey never spoils?"}
+]
+  

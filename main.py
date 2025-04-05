@@ -235,7 +235,7 @@ def main():
         pin_memory=True,
     )
     val_loader = DataLoader(
-        val_dataset, batch_size=BATCH_SIZE, num_workers=4, pin_memory=True
+        val_dataset, batch_size=BATCH_SIZE, num_workers=2, pin_memory=True
     )
 
     model = TinyLLM(
